@@ -1,5 +1,6 @@
 硬件加速小组资源共享：
 SNNTorch网站（snn入门）：https://github.com/jeshraghian/snntorch
+基于SNNTorch的全连接FPGA代码见SNN_FC文件夹
 SNN惊蛰架构（备选）：https://spikingjelly.readthedocs.io/zh-cn/latest/
 
 yolov1----yolov12（哔站yolo入门网站）（包含CNN基础架构如LeNet-————ResNet详解）：https://space.bilibili.com/299876864?spm_id_from=333.1391.0.0
