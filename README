@@ -18,4 +18,13 @@ https://github.com/putshua/Inference-scale-ANN-SNN/tree/main
  论文名称：Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection 
 源码https://github.com/BICLab/SpikeYOLO
 
-加入
+*python版：
+1.yolov3官方版本:https://github.com/ultralytics/yolov3
+2.多个剪枝及量化版本（包含tiny版）：https://github.com/coldlarry/YOLOv3-complete-pruning
+3.Spiking-YOLOv3-Tiny：https://github.com/cwq159/PyTorch-Spiking-YOLOv3
+4.教了怎么标注生成自己的训练集，用的tiny_yolov3：https://github.com/Eatzhy/tiny-yolov3
+	*Verilog版：
+1.Verilog加速v3tiny的第1层卷积层（竞赛国二）：https://github.com/GuoningHuang/FPGA-CNN-accelerator-based-on-systolic-array
+2.zynq7000项目：https://github.com/huanggeli/yolov3tiny-ZYNQ7000?tab=readme-ov-file
+另外2参考了项目（国一）https://github.com/adamgallas/fpga_accelerator_yolov3tiny，移植到了7000
+3.无任何注释，但代码看起来很工整（v3tiny）：https://github.com/nguyendaithien/Yolov3tiny_layer_1
