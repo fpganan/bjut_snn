@@ -4,6 +4,8 @@ SNN惊蛰架构（备选）：https://spikingjelly.readthedocs.io/zh-cn/latest/
 
 yolov1----yolov12（哔站yolo入门网站）（包含CNN基础架构如LeNet-————ResNet详解）：https://space.bilibili.com/299876864?spm_id_from=333.1391.0.0
 
+
+论文：
 基于YOLOv3tiny(ANN2SNN)（目前着重复现目标）
 论文原文：An FPGA Accelerator Design of Spiking Neural Network for Energy-Efficient Object Detection
 
